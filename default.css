@@ -1,8 +1,8 @@
-﻿body {
+body {
     margin: 0;
     padding: 0;
     background: #ffe;
-    font-size: 12px;
+    font-size: 20px;
     overflow: auto
 }
 
@@ -72,8 +72,8 @@
     width: 440px;
     height: 400px;
     color: #333;
-    font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
-    font-size: 12px
+    font-family: cursive;
+    font-size: 15px
 }
 
 #code .string {
